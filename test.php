@@ -1,1 +1,3 @@
-<?php echo "test"; ?>
+<?php echo "test"; 
+// after test silance is golden
+?>
